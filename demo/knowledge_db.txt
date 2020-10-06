@@ -1,0 +1,21 @@
+arthritis <-- joint_pain & tenderness & stiffness & inflammation_of_joints
+asthma <-- coughing & hard_to_breath
+chronic_bronchitis <-- sore_throat & headache & runny_nose & fatigue & chest_pain
+corona_virus <-- fever & coughing & hard_to_breath & pneumonia & fatigue
+flu <-- fever & coughing & sore_throat & runny_nose & fatigue
+pneumonia <-- fever & coughing & hard_to_breath & fatigue
+angina <-- chest_pain & hard_to_beath & nausea & fatigue & vomitting
+ebola <-- fever & fatigue & diarrhea & vomitting & bleeding & abdominal_pain
+zika_virus <-- fever & rash & heacache & joint_pain & eye_irritation & muscle_pain
+syphilis <-- rash & fatigue & fever & headache & joint_pain & painful_urination & genitals_sore
+HIV <-- fever & chills & sore_throat & headache & nausea & rash
+herpes <-- genitals_sore & itching_genitals & painful_urination
+allergies <-- eye_irritation & runny_nose & sneezing & itchy_throat
+mononucleosis <-- fatigue & sore_throat & fever & muscle_pain
+upper_respiratory_infection <-- coughing & runny_nose & sore_throat & headache
+lower_respiratory_infection <-- coughing & hard_to_breath 
+swine_flu <-- fever & sore_throat & headache & chill & muscle_pain & joint_paint
+bird_flu <-- fever & hard_to_breath & headache & diarrhea & runny_nose & sore_throat
+enterovirus <-- fever & runny_nose & sneezing & rash & muscle_pain
+cold <-- fever & runny_nose & sneezing 
+shingles <-- fever & chill & headache & rash
